@@ -1,6 +1,6 @@
 # SCT_WD_3
 
-````markdown
+
 # 🎮 Interactive Tic-Tac-Toe Game
 
 ![Repo Size](https://img.shields.io/github/repo-size/Gunjan0324/SCT_WD_2)
